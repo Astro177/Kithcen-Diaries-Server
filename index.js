@@ -4,7 +4,7 @@ const app = express();
 app.get("/", (req, res) => {
   res.json({ hey: "something is running" });
 });
-const chefDetails = require("./chefs.json");
+const chefDetails = require("./data_file/chefs.json");
 
 app.get("/chefData", (req, res) => {
   res.send(chefDetails);
