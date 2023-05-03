@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Alice Smith",
+    "photo_url": "https://images.unsplash.com/photo-1585358682246-23acb1561f6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=762&q=80",
+    "id": "123456",
+    "experience": 5,
+    "likes": 10,
+    "recipes": 15,
+    "bio": "Alice is a passionate home cook who loves to experiment with new recipes and ingredients. She's particularly interested in vegetarian and vegan cooking."
+  },
+  {
+    "name": "Bob Johnson",
+    "photo_url": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "id": "234567",
+    "experience": 3,
+    "likes": 8,
+    "recipes": 12,
+    "bio": "Bob is a busy professional who enjoys cooking as a way to unwind after work. He's particularly interested in quick and easy recipes that don't require a lot of prep time."
+  },
+  {
+    "name": "Charlie Brown",
+    "photo_url": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "id": "345678",
+    "experience": 7,
+    "likes": 20,
+    "recipes": 30,
+    "bio": "Charlie is a food blogger who loves to share his passion for cooking with others. He's particularly interested in classic French cuisine and has a collection of vintage cookbooks."
+  },
+  {
+    "name": "Diana Lee",
+    "photo_url": "https://images.unsplash.com/photo-1556911073-52527ac43761?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "id": "456789",
+    "experience": 2,
+    "likes": 5,
+    "recipes": 7,
+    "bio": "Diana is a college student who loves to cook for her friends and roommates. She's particularly interested in healthy and budget-friendly recipes that are easy to make in a dorm room."
+  },
+  {
+    "name": "Ethan Kim",
+    "photo_url": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
+    "id": "567890",
+    "experience": 6,
+    "likes": 12,
+    "recipes": 18,
+    "bio": "Ethan is a culinary school graduate who has worked in several top restaurants. He's particularly interested in fusion cuisine and loves to experiment with different flavor combinations."
+  },
+  {
+    "name": "Fiona Chen",
+    "photo_url": "https://images.unsplash.com/photo-1578367015636-5ceda70b8069?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "id": "678901",
+    "experience": 4,
+    "likes": 9,
+    "recipes": 13,
+    "bio": "Fiona is a busy mom who loves to cook for her family. She's particularly interested in healthy and kid-friendly recipes that don't require a lot of time in the kitchen."
+  },
+  {
+    "name": "George Liu",
+    "photo_url": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "id": "789012",
+    "experience": 9,
+    "likes": 25,
+    "recipes": 40,
+    "bio": "George is a professional chef who has worked in several Michelin-starred restaurants. He's particularly interested in modernist cuisine and loves to experiment with molecular gastronomy techniques."
+  },
+  {
+    "name": "Hannah Kim",
+    "photo_url": "https://images.unsplash.com/photo-1611774709304-0551e23bdc24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "id": "890123",
+    "experience": 1,
+    "likes": 2,
+    "recipes": 3,
+    "bio": "Hannah is a beginner cook who is just starting her cooking career. But she is talented enough to make is career in cooking shine to the top."
+  }
+]
